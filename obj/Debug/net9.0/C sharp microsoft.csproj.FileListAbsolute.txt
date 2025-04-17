@@ -1,0 +1,15 @@
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.AssemblyInfoInputs.cache
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.AssemblyInfo.cs
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.csproj.CoreCompileInputs.cache
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.sourcelink.json
+D:\my space\Work2\C sharp microsoft\bin\Debug\net9.0\C sharp microsoft.exe
+D:\my space\Work2\C sharp microsoft\bin\Debug\net9.0\C sharp microsoft.deps.json
+D:\my space\Work2\C sharp microsoft\bin\Debug\net9.0\C sharp microsoft.runtimeconfig.json
+D:\my space\Work2\C sharp microsoft\bin\Debug\net9.0\C sharp microsoft.dll
+D:\my space\Work2\C sharp microsoft\bin\Debug\net9.0\C sharp microsoft.pdb
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.dll
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\refint\C sharp microsoft.dll
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.pdb
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\C sharp microsoft.genruntimeconfig.cache
+D:\my space\Work2\C sharp microsoft\obj\Debug\net9.0\ref\C sharp microsoft.dll
